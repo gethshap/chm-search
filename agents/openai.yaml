@@ -1,0 +1,4 @@
+interface:
+  display_name: "CHM Search"
+  short_description: "Build and search fast local indexes for CHM manuals"
+  default_prompt: "Use $chm-search to index and search these CHM manuals efficiently."
